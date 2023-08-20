@@ -47,9 +47,9 @@ QQ群的群文件
 
 ## 其他链接
 
-GInstaller使用文档
+[GInstaller使用文档](https://github.com/YoahemrK/Ginstaller-linux/blob/main/GInstaller-%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.md)
 
-B站链接
+[B站](https://www.bilibili.com/read/cv25864152)
 
 
 
