@@ -37,7 +37,7 @@ Linux游戏服务器一键下载/管理工具
 
 ## 下载方式
 
-[GitHub](https://github.com/YoahemrK/Ginstaller-linux/releases/)
+[GitHub](https://github.com/YoahemrK/Ginstaller-linux/releases/tag/latest)
 
 [百度网盘](https://pan.baidu.com/s/1_pP15Xw6HdQJEHqGby5A_Q?pwd=9mag )
 
@@ -58,5 +58,5 @@ QQ群的群文件
 本项目现阶段不开源，但是你有任何代码方面的问题可以来找我，我可以提供帮助。
 
 1. B站评论或私信
-2. QQ群
+2. QQ群218715082
 3. ~~邮箱~~
