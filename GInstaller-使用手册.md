@@ -1,5 +1,7 @@
 # GInstaller 使用文档
 
+Project GInstaller
+
 Linux game installer/manager
 
 Linux游戏服务器一键下载/管理工具
@@ -144,7 +146,7 @@ GInstaller默认会从官方发布地址下载TShock，也就是Github。但因�
 
 这里提供两个下载途径：
 
-- Github上的[官方发布](https://github.com/Pryaxis/TShock/releases)，找带有绿色*"Latest"*的版本，下载带有*`linux-x64-Release`*字样的zip文件；
+- Github上的[官方发布](https://github.com/Pryaxis/TShock/releases/latest)，下载带有*`linux-x64-Release`*字样的zip文件；
 - 在GInstaller发布的地方找一找，应该会附带有软件包；
 
 <u>*提示*</u>：TShock服务器对应的客户端为原版泰拉瑞亚，不需要再另外下载游戏；和原版泰拉瑞亚服务器同理，支持同版本下的跨平台联机，其中移动端需要国际服
@@ -207,7 +209,7 @@ GInstaller默认会从Github上下载tModLoader，因为众所周知的原因大
 
 这里提供两个下载途径：
 
-- Github上的[官方发布](https://github.com/tModLoader/tModLoader/releases)，找到带有绿色*"Latest"*的版本，下载`tModLoader.zip`；
+- Github上的[官方发布](https://github.com/tModLoader/tModLoader/releases/latest)，下载`tModLoader.zip`；
 - 在GInstaller发布的地方找一找，应该附带有软件包；
 
 <u>*提示*</u>：tmod需要另外下载客户端才能游玩；官方目前未提供移动版，所以tmod只支持PC联机
