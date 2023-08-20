@@ -37,7 +37,7 @@ Linux游戏服务器一键下载/管理工具
 
 ## 下载方式
 
-[GitHub](https://github.com/YoahemrK/Ginstaller-linux/releases/tag/latest)
+[GitHub](https://github.com/YoahemrK/Ginstaller-linux/releases/latest)
 
 [百度网盘](https://pan.baidu.com/s/1_pP15Xw6HdQJEHqGby5A_Q?pwd=9mag )
 
